@@ -1,0 +1,6 @@
+serenityDemo\pages\LoginPage.class
+serenityDemo\Steps\IntranetStepDefinition.class
+serenityDemo\Steps\Serenity\IntranetSanitySteps.class
+serenityDemo\pages\InboxPage.class
+serenityDemo\IntranetTestSuite.class
+serenityDemo\pages\HomePage.class

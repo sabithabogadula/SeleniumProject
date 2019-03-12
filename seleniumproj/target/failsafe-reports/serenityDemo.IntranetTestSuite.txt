@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: serenityDemo.IntranetTestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 64.46 sec - in serenityDemo.IntranetTestSuite
