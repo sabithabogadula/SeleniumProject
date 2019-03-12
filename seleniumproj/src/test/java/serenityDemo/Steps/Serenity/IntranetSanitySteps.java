@@ -19,7 +19,7 @@ public class IntranetSanitySteps {
 	public void openLoginPage()
 	{
 		loginpage.open();
-		assertThat("Login Page not Opened or login button not found, hence failed step", loginpage.is_login_page_open(), is(true));
+		assertThat("Login Page not Opened or login button not found, hence failed the step", loginpage.is_login_page_open(), is(true));
 	}
 	
 	@Step
@@ -31,7 +31,7 @@ public class IntranetSanitySteps {
 	@Step
 	public void verify_logout_button_displayed()
 	{
-		assertThat("Logout not enabled",loginpage.is_logout_link_enabled(),is(true));
+		assertThat("Logout not enabled hence failed",loginpage.is_logout_link_enabled(),is(true));
 	}
 	
 	@Step
